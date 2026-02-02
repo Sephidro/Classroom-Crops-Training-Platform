@@ -18,5 +18,10 @@ Built as proof-of-concept for Classroom Crops' commercial training offering.
 
 ## Tech Stack
 React, Tailwind CSS, Lucide icons
+## 🤖 How It Was Built
+This project was built using an **AI-First Workflow**. 
+* **Role:** Architect & Lead Debugger.
+* **Stack:** Replit Agent / Next.js / PostgreSQL.
+* **Philosophy:** "Vibe Coding." I focused on user experience, business logic, and "what happens after," utilizing AI to handle the heavy lifting of syntax implementation.
 
 [Live Demo](URLcomingsoon)
